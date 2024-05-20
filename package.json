@@ -1,0 +1,16 @@
+{
+  "name": "scifi-explorative-wiki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./generator/generate.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "js-yaml": "^4.1.0",
+    "marked": "^12.0.2"
+  }
+}
