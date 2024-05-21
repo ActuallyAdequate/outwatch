@@ -1,6 +1,10 @@
-# Index of the Cooperative Efforts for the Identification and Exploration of Systems (CE-IES)
+# Outwatch Index
 
-The following reports have been indexed:
+The following reports have been indexed from The Outwatch Program directory:
+
+> **Alert:** A total of %%% reports remain unindexed,
+> the indexer has suffered a fatal error due to:
+> #$------Unknown Entity------#$
 
 ## Participants
 

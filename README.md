@@ -1,11 +1,11 @@
-# Scifi Explorative Wiki Site
+# Outwatch Site
 
 ## Setting up
 
 1. open file explorer in the location you want to have the project folder
 2. right-click and open with git bash
-3. paste in to the console `git clone https://github.com/ActuallyAdequate/scifi-explorative-wiki.git`
-4. this should create a folder named scifi-explorative-wiki
+3. paste in to the console `git clone https://github.com/ActuallyAdequate/outwatch.git`
+4. this should create a folder named outwatch
 5. open the folder with vscode
 6. open a terminal using ``` ctrl + ` ```
 7. to set up, type in `npm install`
