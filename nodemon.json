@@ -1,0 +1,5 @@
+{
+  "watch": ["content/**", "styles/**", "generator/**"],
+  "ext": "md,css,js,html",
+  "exec": "npm run build"
+}
