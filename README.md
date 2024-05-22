@@ -31,4 +31,17 @@ You can add css stylesheets to /styles if you want to insert them into a particu
 
 ## Custom Markdown
 
-There are no custom markdown snippets yet
+### Advanced Images
+
+A standard image is specified like so
+`![My Image](image-src)`
+You can add a url link to an image
+`![My Linked Image](image-src)(link.html)`
+You can set the size of the image as a percentage of the width
+`![My sized Image|20](image-src.png)`
+You can align the image
+`![_|My sized Image](image-src)` Centre aligned
+`![<|My sized Image](image-src)` Left Aligned
+`![>|My sized Image](image-src)` Right Aligned
+Or do any combination
+`![<|My left aligned sized image with a link|50](image-src.png)(link.html)`

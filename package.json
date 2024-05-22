@@ -6,7 +6,7 @@
   "scripts": {
     "build": "node ./generator/generate.js",
     "serve": "live-server --open=./build/",
-    "watch": "nodemon --watch ./content/** --ext md --exec \"npm run build\"",
+    "watch": "nodemon",
     "dev": "concurrently \"npm run watch\" \"npm run serve\""
   },
   "author": "",

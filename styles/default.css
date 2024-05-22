@@ -19,6 +19,7 @@
   }
   
   p {
+    text-align: center;
     margin-bottom: 1.5rem;
   }
   
@@ -31,3 +32,53 @@
   a:hover {
     color: #c4c4c4;
   }
+
+  /* Blockquote Styling */
+blockquote {
+  border-left: 5px solid #c4c4c4;
+  background-color: #1c3a5aff;
+  color: #E0E0E0;
+  margin: 1.5rem 0;
+  padding: 1rem 1.5rem;
+  border-radius: 10px;
+  position: relative;
+  font-style: italic;
+}
+
+blockquote p {
+  text-align: left;
+  margin-bottom: 0;
+}
+
+blockquote footer {
+  text-align: right;
+  font-size: 0.875rem;
+  color: #a0a0a0;
+} 
+
+/* Inline Code Styling */
+code {
+  background-color: #1c3a5aff;
+  color: #ffcb6b; /* A contrasting color for code text */
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  font-family: 'Courier New', Courier, monospace; /* Monospace font for code */
+  font-size: 0.95em;
+}
+
+/* Block Code Styling */
+pre {
+  background-color: #1c3a5aff;
+  color: #E0E0E0;
+  padding: 1rem;
+  border-radius: 8px;
+  overflow-x: auto; /* Enable horizontal scrolling for long code lines */
+  margin-bottom: 1.5rem;
+}
+
+pre code {
+  color: #ffcb6b;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.95em;
+  line-height: 1.4;
+}

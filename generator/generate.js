@@ -1,6 +1,7 @@
 const fs = require('fs-extra');
 const path = require('path');
 const {marked} = require('marked');
+require('./marked_extensions');
 const yaml = require('js-yaml');
 
 const srcDir = path.join(__dirname, '../content');
@@ -16,7 +17,7 @@ const extractFrontMatter = (fileContent) => {
       const content = fileContent.slice(frontMatterMatch[0].length);
       return { frontMatter, content };
     }
-    return { frontMatter: {}, content: fileContent };
+    return { frontMatter: {}, markdownContent: fileContent };
   };
 
 // Function to convert Markdown files to HTML with specified CSS
@@ -52,19 +53,23 @@ const convertMarkdownToHtml = (markdown, cssFile) => {
   
       // Read all files from the src directory
       const files = await fs.readdir(srcDir);
-  
       // Process each file
       for (const file of files) {
         const filePath = path.join(srcDir, file);
-        const fileContents = await fs.readFile(filePath, 'utf8');
-        const { frontMatter, content } = extractFrontMatter(fileContents);
-        const cssFile = frontMatter.css || defaultCssFile;
-        const htmlContent = convertMarkdownToHtml(content, cssFile);
-  
-        const outputFilePath = path.join(buildDir, file.replace('.md', '.html'));
-        await fs.outputFile(outputFilePath, htmlContent);
-  
-        console.log(`Converted ${file} to HTML.`);
+        const extension = file.slice((file.lastIndexOf(".") - 1 >>> 0) + 2);
+
+        if(extension == "md") {
+          const fileContents = await fs.readFile(filePath, 'utf8');
+          const { frontMatter, markdownContent } = extractFrontMatter(fileContents);
+          const cssFile = frontMatter.css || defaultCssFile;
+          contents = convertMarkdownToHtml(markdownContent, cssFile);
+          buildFilePath = path.join(buildDir, file.replace('.md', '.html'));
+          await fs.outputFile(buildFilePath, contents);
+        } else {
+          fs.copyFile(filePath, path.join(buildDir, file));
+        }
+      
+        console.log(`Successfully Built ${file}`); 
       }
     } catch (error) {
       console.error('Error generating site:', error);
