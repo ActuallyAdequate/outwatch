@@ -21,10 +21,12 @@ const extractFrontMatter = (fileContent) => {
   };
 
 // Function to convert Markdown files to HTML with specified CSS
-const convertMarkdownToHtml = (markdown, cssFile) => {
+const convertMarkdownToHtml = (markdown, cssFile, defaultCssFile) => {
     const htmlContent = marked(markdown);
     const cssFilePath = path.join('styles', cssFile);
+    const defaultCssFilePath = path.join('styles', defaultCssFile);
     const cssLink = `<link rel="stylesheet" href="${cssFilePath}">`;
+    const defaultCssLink = `<link rel="stylesheet" href="${defaultCssFilePath}">`;
     return `
       <!DOCTYPE html>
       <html lang="en">
@@ -32,7 +34,7 @@ const convertMarkdownToHtml = (markdown, cssFile) => {
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Document</title>
-        ${cssLink}
+        ${cssFile != undefined ? `${defaultCssLink} ${cssLink}`: `${defaultCssLink}`}
       </head>
       <body>
         ${htmlContent}
@@ -61,8 +63,8 @@ const convertMarkdownToHtml = (markdown, cssFile) => {
         if(extension == "md") {
           const fileContents = await fs.readFile(filePath, 'utf8');
           const { frontMatter, markdownContent } = extractFrontMatter(fileContents);
-          const cssFile = frontMatter.css || defaultCssFile;
-          contents = convertMarkdownToHtml(markdownContent, cssFile);
+          const cssFile = frontMatter.css;
+          contents = convertMarkdownToHtml(markdownContent, cssFile, defaultCssFile);
           buildFilePath = path.join(buildDir, file.replace('.md', '.html'));
           await fs.outputFile(buildFilePath, contents);
         } else {
