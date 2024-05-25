@@ -23,7 +23,10 @@ const extractFrontMatter = (fileContent) => {
 // Function to convert Markdown files to HTML with specified CSS
 const convertMarkdownToHtml = (markdown, cssFile, defaultCssFile) => {
     const htmlContent = marked(markdown);
-    const cssFilePath = path.join('styles', cssFile);
+    let cssFilePath = "";
+    if(cssFile != undefined) {
+      cssFilePath = path.join('styles', cssFile);
+    }
     const defaultCssFilePath = path.join('styles', defaultCssFile);
     const cssLink = `<link rel="stylesheet" href="${cssFilePath}">`;
     const defaultCssLink = `<link rel="stylesheet" href="${defaultCssFilePath}">`;
