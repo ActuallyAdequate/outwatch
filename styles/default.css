@@ -42,7 +42,7 @@ blockquote {
   padding: 1rem 1.5rem;
   border-radius: 10px;
   position: relative;
-  font-style: italic;
+  font-style: normal;
 }
 
 blockquote p {
