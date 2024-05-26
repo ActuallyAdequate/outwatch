@@ -87,3 +87,10 @@ pre code {
   font-size: 0.95em;
   line-height: 1.4;
 }
+
+/* Can I make the margins different for phones and pcs */
+
+@media screen and (orientation: landscape) {
+  * {margin-left: 20em;
+  }
+}
