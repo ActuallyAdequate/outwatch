@@ -2,7 +2,7 @@
 
 ## Overview
 
-Project Outwatch was commissioned by the World Research Council on behalf of the [World Cooperative Assembly](/content/wca_overview.md) in R286.3.14 to explore extra-solar bodies and phenomenon with a priority for research developements, resources, and identification of future opportunities for all nations.
+Project Outwatch was commissioned by the World Research Council on behalf of the [World Cooperative Assembly](content/wca_overview.md) in R286.3.14 to explore extra-solar bodies and phenomenon with a priority for research developements, resources, and identification of future opportunities for all nations.
 
 ## Goals
 
