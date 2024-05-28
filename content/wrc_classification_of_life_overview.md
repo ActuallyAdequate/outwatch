@@ -2,7 +2,7 @@
 
 ## Overview
 
-Under the development of the World Research Council, [Project Outwatch](content/wrc_projectoutwatch_overview.md) has been provided with an initial set of classifications for the identification of life.  The identification of life takes place across four axes: substrate, energy-use, replication, and pattern-integrity.  Note that the classification scale is not meant to identify the *type* of life, but rather the probability that something is alive.
+Under the development of the World Research Council, [Project Outwatch](wrc_projectoutwatch_overview.md) has been provided with an initial set of classifications for the identification of life.  The identification of life takes place across four axes: substrate, energy-use, replication, and pattern-integrity.  Note that the classification scale is not meant to identify the *type* of life, but rather the probability that something is alive.
 
 ### Substrate
 
@@ -17,7 +17,6 @@ Potential life is classed along the substrate axis with a designation from Sω t
 + S2 pertains to non-chemical substrates that do not replicate the functions of terrestrial biology
 + S1 pertains to simulating substrates, such that they perform the tasks of universal computers and could simulate terrestrial or non-terrestrial biological functions
 + S0 pertains to substrate-independence
-
 
 ### Energy Use
 
@@ -36,7 +35,6 @@ The second axis denotes the intake, use and waste of energy along a scale from E
 + E0 pertains to single formative energy intake, but regular or irregular waste
 
 Life that takes in energy (e.g. as food), uses that energy (e.g. to grow or to move) and wastes some energy (e.g. as excrement) will score "higher" on the scale and be most likely to be considered and officially recognised as life.
-
 
 ### Replication
 

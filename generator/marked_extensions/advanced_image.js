@@ -11,7 +11,7 @@ const advancedImage = {
                 raw: match[0],
                 imageText: imageText.trim(),
                 imageUrl: (imageUrl || '').trim(),
-                url: (url || '').trim(),
+                url: (url || '').trim().replace(/\.md$/, '.html'),
                 align: align,
                 width: width
             };

@@ -2,12 +2,11 @@
 
 ## Overview
 
-Project Outwatch was commissioned by the World Research Council on behalf of the [World Cooperative Assembly](content/wca_overview.md) in R286.3.14 to explore extra-solar bodies and phenomenon with a priority for research developements, resources, and identification of future opportunities for all nations.
+Project Outwatch was commissioned by the World Research Council on behalf of the [World Cooperative Assembly](wca_overview.md) in R286.3.14 to explore extra-solar bodies and phenomenon with a priority for research developements, resources, and identification of future opportunities for all nations.
 
 ## Goals
 
 There are six goals of Project Outwatch - four primary goals and two secondary goals.
-
 
 ### Identification of Research Priorities
 
@@ -17,7 +16,7 @@ This primary goal is deliberately broad to provide Project Outwatch expeditions 
 
 ### Identification of Life
 
-This goal - often touted in the press as the main or only goal and largely considered the most exciting - aims to find evidence of life on other planets or in interplanetary environments.  While the WRC has given this goal priority status, few expeditions have targeted locations with likely conditions for life.  [The classification of life](/content/wrc_classification_of_life_overview.md) is a difficult scientific and philosophical puzzle. 
+This goal - often touted in the press as the main or only goal and largely considered the most exciting - aims to find evidence of life on other planets or in interplanetary environments.  While the WRC has given this goal priority status, few expeditions have targeted locations with likely conditions for life.  [The classification of life](wrc_classification_of_life_overview.md) is a difficult scientific and philosophical puzzle.
 
 ### Identification of Security Issues
 

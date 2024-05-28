@@ -88,9 +88,17 @@ pre code {
   line-height: 1.4;
 }
 
-/* Can I make the margins different for phones and pcs */
+/*  Desktop/Mobile Sizing*/
+article {
+  width: 90%;
+  margin: auto;
+  padding: 0.5em; 
+  box-sizing: border-box;
+}
 
-@media screen and (orientation: landscape) {
-  * {margin-right: 5rem;
+@media (max-width: 600px) {
+  article {
+      width: 100%;
+      margin: 0;
   }
 }

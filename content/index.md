@@ -1,5 +1,6 @@
 # Outwatch Index
-An initiative of the [WCA](content/wca_overview.md)
+
+An initiative of the [WCA](wca_overview.md)
 
 The following reports have been indexed from The Outwatch Program directory:
 
