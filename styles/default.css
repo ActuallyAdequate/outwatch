@@ -91,6 +91,6 @@ pre code {
 /* Can I make the margins different for phones and pcs */
 
 @media screen and (orientation: landscape) {
-  * {margin-right: 5rem;
+  * {margin-right: 5em;
   }
 }

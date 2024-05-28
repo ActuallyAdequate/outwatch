@@ -2,7 +2,7 @@
 
 ## Overview
 
-Under the development of the World Research Council, [Project Outwatch](content/wrc_projectoutwatch_overview.md) has been provided with an initial set of classifications for the identification of life.  The identification of life takes place across four axes: substrate, energy-use, replication, and pattern-integrity.  Note that the classification scale is not meant to identify the *type* of life, but rather the probability that something is alive.
+Under the development of the World Research Council, [Project Outwatch](wrc_projectoutwatch_overview.md) has been provided with an initial set of classifications for the identification of life.  The identification of life takes place across four axes: substrate, energy-use, replication, and pattern-integrity.  Note that the classification scale is not meant to identify the *type* of life, but rather the probability that something is alive.
 
 ### Substrate
 

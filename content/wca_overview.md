@@ -16,4 +16,4 @@ The WCA and its child organisations have been developed to overcome national pre
 
 ## Project Outwatch
 
-The World Cooperative Assembly, on R286.3.14, voted to direct the World Research Council to draw up plans for extra-solar exploration, with a focus on inhabitable planets, economic opportunities, significant research priorities, and the identification of possible life.  From this directive, the World Research Council developed [Project Outwatch](content/wrc_projectoutwatch_overview.md), a cooperative effort to explore beyond our planet and bring the benefits of resources and knowledge back for the entire world.
+The World Cooperative Assembly, on R286.3.14, voted to direct the World Research Council to draw up plans for extra-solar exploration, with a focus on inhabitable planets, economic opportunities, significant research priorities, and the identification of possible life.  From this directive, the World Research Council developed [Project Outwatch](wrc_projectoutwatch_overview.md), a cooperative effort to explore beyond our planet and bring the benefits of resources and knowledge back for the entire world.
