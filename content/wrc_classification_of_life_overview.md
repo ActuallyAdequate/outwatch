@@ -18,7 +18,6 @@ Potential life is classed along the substrate axis with a designation from Sω t
 + S1 pertains to simulating substrates, such that they perform the tasks of universal computers and could simulate terrestrial or non-terrestrial biological functions
 + S0 pertains to substrate-independence
 
-
 ### Energy Use
 
 The second axis denotes the intake, use and waste of energy along a scale from Eω to E0:
@@ -36,7 +35,6 @@ The second axis denotes the intake, use and waste of energy along a scale from E
 + E0 pertains to single formative energy intake, but regular or irregular waste
 
 Life that takes in energy (e.g. as food), uses that energy (e.g. to grow or to move) and wastes some energy (e.g. as excrement) will score "higher" on the scale and be most likely to be considered and officially recognised as life.
-
 
 ### Replication
 
