@@ -1,8 +1,10 @@
 # Classification of Life
 
+
 ## Overview
 
 Under the development of the World Research Council, [Project Outwatch](wrc_projectoutwatch_overview.md) has been provided with an initial set of classifications for the identification of life.  The identification of life takes place across four axes: substrate, energy-use, replication, and pattern-integrity.  Note that the classification scale is not meant to identify the *type* of life, but rather the probability that something is alive.
+
 
 ### Substrate
 
@@ -17,6 +19,7 @@ Potential life is classed along the substrate axis with a designation from Sω t
 + S2 pertains to non-chemical substrates that do not replicate the functions of terrestrial biology
 + S1 pertains to simulating substrates, such that they perform the tasks of universal computers and could simulate terrestrial or non-terrestrial biological functions
 + S0 pertains to substrate-independence
+
 
 ### Energy Use
 
@@ -36,6 +39,7 @@ The second axis denotes the intake, use and waste of energy along a scale from E
 
 Life that takes in energy (e.g. as food), uses that energy (e.g. to grow or to move) and wastes some energy (e.g. as excrement) will score "higher" on the scale and be most likely to be considered and officially recognised as life.
 
+
 ### Replication
 
 The third axis denotes replication, including all forms of reproduction, and again moves from Rω, similar to terrestrial life, to R0, most dissimilar.
@@ -47,6 +51,7 @@ The third axis denotes replication, including all forms of reproduction, and aga
 + R2 pertains to stochastic copies, where patterns produce multiple offspring patterns and generally tend to produce a replica pattern
 + R1 pertains to non-conforming copies, where patterns produce further patterns that could be viably classified as life, but where the parent copy and child copies  do not systematically produce patterns of the original
 + R0 pertains to patterns that do not produce copies
+
 
 ### Pattern Integrity
 
@@ -63,6 +68,7 @@ This axis denotes the ability of some entity to maintain a sense of bodily or or
 + P2 pertains to patterns that maintain integrity
 + P1 pertains to patterns that maintain integrity
 + P0 pertains to patterns that do not maintain integrity
+
 
 ### Debate
 
