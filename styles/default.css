@@ -63,7 +63,7 @@ blockquote footer {
 
 /* Inline Code Styling */
 code {
-  background-color: #1c3a5aff;
+  background-color: rgb(43, 48, 53);
   color: #ffcb6b; /* A contrasting color for code text */
   padding: 0.2em 0.4em;
   border-radius: 4px;
@@ -73,7 +73,7 @@ code {
 
 /* Block Code Styling */
 pre {
-  background-color: #1c3a5aff;
+  background-color: rgb(43, 48, 53);;
   color: #E0E0E0;
   padding: 1rem;
   border-radius: 8px;
@@ -90,20 +90,15 @@ pre code {
 
 /*  Desktop/Mobile Sizing*/
 article {
-  width: 90%;
+  width: 80%;
   margin: auto;
   padding: 0.5em; 
   box-sizing: border-box;
 }
 
-<<<<<<< HEAD
-@media screen and (orientation: landscape) {
-  * {margin-right: 5em;
-=======
 @media (max-width: 600px) {
   article {
       width: 100%;
       margin: 0;
->>>>>>> 9d705c16bfc2047e75b96e6ed8e04eea8a23592f
   }
 }

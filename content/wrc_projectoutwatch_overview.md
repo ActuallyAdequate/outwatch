@@ -16,11 +16,7 @@ This primary goal is deliberately broad to provide Project Outwatch expeditions 
 
 ### Identification of Life
 
-<<<<<<< HEAD
-This goal - often touted in the press as the main or only goal and largely considered the most exciting - aims to find evidence of life on other planets or in interplanetary environments.  While the WRC has given this goal priority status, few expeditions have targeted locations with likely conditions for life.  [The classification of life](wrc_classification_of_life_overview.md) is a difficult scientific and philosophical puzzle. 
-=======
 This goal - often touted in the press as the main or only goal and largely considered the most exciting - aims to find evidence of life on other planets or in interplanetary environments.  While the WRC has given this goal priority status, few expeditions have targeted locations with likely conditions for life.  [The classification of life](wrc_classification_of_life_overview.md) is a difficult scientific and philosophical puzzle.
->>>>>>> 9d705c16bfc2047e75b96e6ed8e04eea8a23592f
 
 ### Identification of Security Issues
 
