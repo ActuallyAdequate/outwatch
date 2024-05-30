@@ -8,10 +8,4 @@
 - [N-Density Relationships, and it's Application in propulsion](negative_density_propulsion_record.md)
 - [Synthesis of Transient Density Materials](transient_density_materials_record.md)
 - [Schematics for the integration of the ∅-Drive in vacuum-borne vessels](null_drive_schematics_record.md)
-- [Proposal to the WCA for inter-system transit](wca_intersystem_transit_record.md)
-
-## Synthesis of Transient Density Materials
-
-## Schematics For the Integration of the ∅-Drive in vacuum-borne vessels
-
-## Proposal to the WCA for inter-system transit
+- [Proposal to Fleet Control for inter-system transit](intersystem_transit_record.md)
