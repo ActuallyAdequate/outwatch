@@ -2,13 +2,13 @@
 
 ## Overview
 
-The World Researech Council (WRC) is the premier body for coordinating and funding global and extra-global research projects, such as [Project Outwatch](wrc_projectoutwatch_overview.md), the development of the [∅-Drive](null_drive_overview), the [non-local relay network](wrc_nonlocalrelay_overview), and off-world biological adaptation studies.
+The World Researech Council (WRC) is the premier body for coordinating and funding global and extra-global research projects, such as [Project Outwatch](wrc_projectoutwatch_overview.md), the development of the [∅-Drive](null_drive_overview.md), the [non-local relay network](wrc_nonlocalrelay_overview.md), and off-world biological adaptation studies.
 
-The World Research Council is a global think-tank that primarily engages in meta-studies, grant disbursement, agenda-setting and policy frameworks.  It is composed of researchers from partner states of the [World Cooperative Assembly](wca_overview), appointed by the WCA.  Members of the WRC are usually experts in their respective fields.  The WRC itself, while playing an important role in monitoring research, does not conduct any primary research, and largely consists of expert panels and review boards.
+The World Research Council is a global think-tank that primarily engages in meta-studies, grant disbursement, agenda-setting and policy frameworks.  It is composed of researchers from partner states of the [World Cooperative Assembly](wca_overview.md), appointed by the WCA.  Members of the WRC are usually experts in their respective fields.  The WRC itself, while playing an important role in monitoring research, does not conduct any primary research, and largely consists of expert panels and review boards.
 
 ## Meta-studies
 
-The WRC takes an important role in critically reviewing the current state of research and providing needed meta-analysis, which allows the state of various research industries to engage with the "five Cs": consideration, course-correction, coordination or curtailment.  Areas of research which are dangerous are identified and noted eaarly, while areas with overlapping research domains can be coordinated to share information more freely.
+The WRC takes an important role in critically reviewing the current state of research and providing needed meta-analysis, which allows the state of various research industries to engage with the "five Cs": consideration, course-correction, coordination or curtailment.  Areas of research which are dangerous are identified and noted early, while areas with overlapping research domains can be coordinated to share information more freely.
 
 ## Grant Disbursement
 
