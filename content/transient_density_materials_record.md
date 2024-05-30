@@ -13,7 +13,7 @@
 
 The development of negative mass equivalent entities, were an exciting prospect, allowing access to a variety of technologies based upon negative mass. Disappointingly the negative spatial fields do not truly create negative mass materials, as they must exist within the negative spatial field. Thus, uses are limited to what can be implemented within the constraints of the field. The field size has conclusively met its limit at 29.43 metre diameter spherical field. This, as of current models, is a hard maximum, known as the Inhreed constant. This falls dramatically short of what is required for practical use cases in spacecraft, and the proposed negative density system space elevator.
 
-## Proposal
+## Synthesis
 
 The size of the negative density system is granted that entire laboratories can be placed within the negative spatial field allowing for comprehensive studies to take place. This has lead to the methodology proposed in this paper to produce true negative massed matter.
 
