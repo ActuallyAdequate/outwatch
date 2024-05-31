@@ -6,19 +6,19 @@ The non-local relay network (NoLoRN) is a system-based communications network th
 
 The non-local relay network uses dark-energy decay filaments to communicate at superluminal speeds, allowing time-critical fleet coordination information to prevent unnecessary fuel usage.
 
-![data|60](header_data_3)
+![_|data|10](header_data_3.png)
 
 ## Structure and Operation
 
 The NoLoRN consists of 67 relay beacons which each have a set channel capacity to communicate to other beacons.  Most beacons are located in Lagrange points to allow for robust and predictable communication targeting.  Each beacon has a set number of channels to communicate with specific beacons, because dark-energy decay filaments do not easily allow for general broadcasting.  Each channel is therefore monitored closely and updated to engage with new filaments when necessary, as the beacons change relative positions.  Because the beacons have a fixed capacity, each channel is configured at different times of the day to access the required incoming traffic (coinciding with the morning/evening cycles of different system timezones).
 
-![data|60](header_data_2)
+![_|data|10](header_data_2.png)
 
 ## Controlling Board
 
 The NoLoRN Board is appointed by Fleet Control and oversees both the general operation of the network as well as the market for the network.  The board prioritises all Fleet Control operations, and need to scale back channel capacity as required when large-scale fleet operations occur.  The Board is also in charge of denying access to the network when end-users are non-compliant with either NoLoRN policy or Fleet Control orders.
 
-![data|60](header_data_6)
+![_|data|10](header_data_6.png)
 
 ## Communications Market
 

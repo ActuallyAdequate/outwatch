@@ -6,7 +6,7 @@ Dark-energy decay filaments are spacetime artefacts resulting from out-of-phase 
 
 Researchers predict that any patch of "empty space" contains millions of such filaments, and that they are more common near stellar bodies than between them.
 
-![_|data|60](header_chart_1.png)
+![_|data|10](header_chart_1.png)
 
 ## Application
 
