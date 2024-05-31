@@ -6,25 +6,25 @@ Transtemporalism is a religious outlook and the third largest set of religious b
 
 Transtemporalism is a religious outlook that proposes human time and universal time progress in opposite directions, and that human time will eventually out-compete universal time, leading to a fully human-constructed universe past the boundary of time, which can be developed into an eternal utopia.
 
-![Data|60](header_space_2)
+![_|Data|60](header_space_2.png)
 
 ## Universal time
 
 Transtemporalists propose that the arrow of time is most appropriately conceived of as progressing in the direction of ordered structure - that is, in the opposite direction to the general increase of entropy.  This is a reversal of the generally accepted sense of the passage of time.  When conceived of in this manner, the Big Bang is the endpoint of the universe, when all matter is brought into a condensed structure, and the beginning of the universe, generally conceived of as the Heat Death of the universe where matter is distributed more generally, exists in our future.  This arrow of time is called the "universal arrow of time" because it accords with the progression of time as relevant to the vast majority of matter and energy in the universe, of which life is only a brief moment.
 
-![Data|60](header_space_4)
+![_|Data|60](header_space_4.png)
 
 ## Living time
 
 If the arrow of time moves from more entropic states to less entropic states, then life-oriented activities of consumption, growth, repair and organisation are activities that denote the movement of the arrow of time fowards.  Thus, while a lifeless universe - or lifeless areas of the universe - are considered as moving from the heat death to the Big Bang/Crunch, pockets of life actually reverse this trend and local time runs in the opposite direction.  This opposing arrow of time is known as "living time", and describes the experience of a living being as compared to the hypothetical time-experience of the non-living universe.  By far, the majority of time runs from heat death to the Big Bang, but living time is unique and persistent in heading in the other direction.
 
-![Data|60](header_space_1)
+![_|Data|60](header_space_1.png)
 
 ## Human time
 
 _Human time_ describes the specific organising capabilities of humans - not only does human biology buck the trend of universal time, but human organisation, including agriculture, technology, data storage, population expansion, infrastructure building and medicine all follow the arrow of living time.  However, unlike living time, human time starts to impress the living arrow of time onto non-living matter, slowly redirecting the arrow of time of the local universe as a whole from progressing towards the Big Bang to progressing towards the heat death end-point of the universe.
 
-![Data|60](header_space_5)
+![_|Data|60](header_space_5.png)
 
 ## Beyond the boundary of time
 
