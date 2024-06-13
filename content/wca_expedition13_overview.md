@@ -6,4 +6,4 @@ Expedition 13's primary goal was to rendezvous with Expedition 4 and aide in the
 
 ## Received Communications
 
-- [The Blooded Pond](jarynt_lientsil_pond_2.html)
+- [The Blooded Pond](jarynt_lientsil_bloodedpond_2.html)
