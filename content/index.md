@@ -1,8 +1,21 @@
+---
+background: outwatch.svg
+---
+
 # Outwatch Index
 
 An initiative of the [WCA](wca_overview.md)
 
 The following reports have been indexed from The Outwatch Program directory:
+
+## Overview
+
+[Project Outwatch](wrc_projectoutwatch_overview)
+
+## Reports of Interest
+
+- [The Null Drive](null_drive_overview.md)
+- [Expedition 13](wca_expedition13_overview.md)
 
 ```cli
 $Indexer Exited$
@@ -10,17 +23,3 @@ $Indexer Exited$
 ># the indexer has suffered a fatal error due to:
 ># $------Unknown Entity------#
 ```
-
-## Overview
-
-[Project Outwatch](wrc_projectoutwatch_overview)
-
-## Participants
-
-## Systems
-
-## Technology
-
-[The Null Drive](null_drive_overview.md)
-
-## Research
