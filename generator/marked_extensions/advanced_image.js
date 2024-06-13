@@ -4,7 +4,6 @@ const advancedImage = {
     tokenizer(src) {
         const match = /^!\[(?:(\<|\>|\_)\|)?([a-zA-Z0-9\s\.\,\_\%\*\#\@\!\"\'\`\~\^\:\;\$\&\-]*)(?:\|([0-9]+))?\]\(([a-zA-Z0-9\.\_\-]*)\)(?:\(([a-zA-Z0-9\.\_\-]*)\))?/.exec(src);
         if (match) {
-            console.log(match);
             const [ _ , align, imageText, width, imageUrl, url] = match;
             return {
                 type: 'advancedImage',

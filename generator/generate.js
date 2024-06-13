@@ -11,17 +11,17 @@ const stylesBuildDir = path.join(buildDir, 'styles');
 const defaultCssFile = 'default.css';
 
 const extractFrontMatter = (fileContent) => {
-    const frontMatterMatch = fileContent.match(/^---\n([\s\S]+?)\n---\n/);
+    const frontMatterMatch = fileContent.match(/^---\s*\n([\s\S]*?)\n---/);
     if (frontMatterMatch) {
       const frontMatter = yaml.load(frontMatterMatch[1]);
-      const content = fileContent.slice(frontMatterMatch[0].length);
-      return { frontMatter, content };
+      const markdownContent = fileContent.slice(frontMatterMatch[0].length);
+      return { frontMatter, markdownContent };
     }
     return { frontMatter: {}, markdownContent: fileContent };
   };
 
 // Function to convert Markdown files to HTML with specified CSS
-const convertMarkdownToHtml = (markdown, cssFile, defaultCssFile) => {
+const convertMarkdownToHtml = (markdown, cssFile, defaultCssFile, backgroundPicture) => {
     const htmlContent = marked(markdown);
     let cssFilePath = "";
     if(cssFile != undefined) {
@@ -30,6 +30,7 @@ const convertMarkdownToHtml = (markdown, cssFile, defaultCssFile) => {
     const defaultCssFilePath = path.join('styles', defaultCssFile);
     const cssLink = `<link rel="stylesheet" href="${cssFilePath}">`;
     const defaultCssLink = `<link rel="stylesheet" href="${defaultCssFilePath}">`;
+    const backgroundPictureUrl = `styles/${backgroundPicture}`;
     return `
       <!DOCTYPE html>
       <html lang="en">
@@ -39,7 +40,8 @@ const convertMarkdownToHtml = (markdown, cssFile, defaultCssFile) => {
         <title>Outwatch</title>
         ${cssFile != undefined ? `${defaultCssLink} ${cssLink}`: `${defaultCssLink}`}
       </head>
-      <body>
+      <body class='background' ${backgroundPicture != undefined ? `style="background-image: url('${backgroundPictureUrl}');"` : ""}>
+        <div ></div>
         <article>
         ${htmlContent}
         </article>
@@ -68,8 +70,7 @@ const convertMarkdownToHtml = (markdown, cssFile, defaultCssFile) => {
         if(extension == "md") {
           const fileContents = await fs.readFile(filePath, 'utf8');
           const { frontMatter, markdownContent } = extractFrontMatter(fileContents);
-          const cssFile = frontMatter.css;
-          contents = convertMarkdownToHtml(markdownContent, cssFile, defaultCssFile);
+          contents = convertMarkdownToHtml(markdownContent, frontMatter.css, defaultCssFile, frontMatter.background);
           buildFilePath = path.join(buildDir, file.replace('.md', '.html'));
           await fs.outputFile(buildFilePath, contents);
         } else {
