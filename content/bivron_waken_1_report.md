@@ -1,6 +1,6 @@
 # Waken Report
 
-![_|Waken|80](waken_planet.png)
+![_|Waken|40](waken_planet.png)
 
 ## Overview
 
@@ -11,6 +11,7 @@ The mission was carried out by the Por-Guwlen vessel _Latent Quarry_, and was ge
 ## Report Details
 
 ### Site Selection
+
 
 
 ### Landing

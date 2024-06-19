@@ -2,7 +2,7 @@
 
 ## Overview
 
-Dark-energy decay filaments are spacetime artefacts resulting from out-of-phase spacetime expansion events driven by dark energy.  Dark energy fields produce spacetime expansion but disruptive events - even those from the creation and annihilation of virtual particles - can bring these field expansions out of phase. When two dark-energy fields become out of phase, they produce Oerten shears where edge-points of a single field are motivated along an angle in imaginary space.  When the expansionary field slows, the connection between two adjacent edgepoints becomes non-local, with a two-dimensional vector of imaginary space between them, known as a "filament", called by Oerten "the stretch-marks of the universe".  The ends of filaments function as virtual wormholes.
+Dark-energy decay filaments are spacetime artefacts resulting from out-of-phase spacetime expansion events driven by dark energy.  Dark energy fields produce spacetime expansion but disruptive events - even those from the creation and annihilation of virtual particles - can bring these field expansions out of phase. When two dark-energy fields become out of phase, they produce Oerten shears where edge-points of a single field are motivated along an angle in imaginary space.  When the expansionary field slows, the connection between two adjacent edgepoints becomes non-local, with a two-dimensional vector of imaginary space between them, known as a "filament", called by Oerten "the stretch-marks of the universe".  The ends of filaments are effectively adjacent and function as virtual wormholes.
 
 Researchers predict that any patch of "empty space" contains millions of such filaments, and that they are more common near stellar bodies than between them.
 
