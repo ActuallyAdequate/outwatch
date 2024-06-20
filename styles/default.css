@@ -14,6 +14,13 @@
     margin: 1em;
   }
 
+.background {
+  background-attachment: fixed;
+  background-position: center;
+background-repeat: no-repeat;
+/* background-size: cover; */
+}
+
 h1 {
   text-align: center;
   margin-bottom: 1.5rem;
@@ -42,16 +49,27 @@ h1 {
     margin-left: 2em;
   }
 
+  /* footnotes */
+  .footnotedesc {
+    margin-top: 2em;
+    border-top: 1px solid #555;
+    margin-right: 0.3em;
+    font-size: 0.875em;
+    color: #555;
+}
+
   /* Blockquote Styling */
 blockquote {
   border-left: 5px solid #c4c4c4;
-  background-color: #1c3a5aff;
+  background-color: rgb(28, 57, 89, 0.7);
   color: #E0E0E0;
   margin: 1.5rem 0;
   padding: 1rem 1.5rem;
   border-radius: 10px;
   position: relative;
   font-style: normal;
+  backdrop-filter: blur(10px); /* Blur the content behind the element */
+  -webkit-backdrop-filter: blur(10px); /* For Safari */
 }
 
 blockquote p {
@@ -67,7 +85,7 @@ blockquote footer {
 
 /* Inline Code Styling */
 code {
-  background-color: rgb(43, 48, 53);
+  background-color: rgb(43, 48, 53, 0.9);
   color: #ffcb6b; /* A contrasting color for code text */
   padding: 0.2em 0.4em;
   border-radius: 4px;
@@ -77,18 +95,19 @@ code {
 
 /* Block Code Styling */
 pre {
-  background-color: rgb(43, 48, 53);;
+  background-color: rgb(43, 48, 53, 0.9);;
   color: #E0E0E0;
   padding: 1rem;
   border-radius: 8px;
   overflow-x: auto; /* Enable horizontal scrolling for long code lines */
   margin-bottom: 1.5rem;
+  backdrop-filter: blur(10px); /* Blur the content behind the element */
+  -webkit-backdrop-filter: blur(10px); /* For Safari */
 }
 
 pre code {
+  background-color: transparent;
   color: #ffcb6b;
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 0.95em;
   line-height: 1.4;
 }
 
