@@ -52,9 +52,10 @@ h1 {
   /* footnotes */
   .footnotedesc {
     margin-top: 2em;
+    margin-left: 1em;
     border-top: 1px solid #555;
     margin-right: 0.3em;
-    font-size: 0.875em;
+    font-size: 1.05em;
     color: #555;
 }
 

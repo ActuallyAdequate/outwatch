@@ -1,7 +1,3 @@
----
-background: outwatch.svg
----
-
 # Outwatch Index
 
 An initiative of the [WCA](wca_overview.md)
@@ -15,11 +11,9 @@ The following reports have been indexed from The Outwatch Program directory:
 ## System Overview
 
 - [Bivron System](bivron_system.md)
+- [Jarynt System](jarynt_system.md)
 
-## Reports of Interest
-
-- [The Null Drive](null_drive_overview.md)
-- [Expedition 13](wca_expedition13_overview.md)
+## Records of Interest
 
 ```cli
 $Indexer Exited$
