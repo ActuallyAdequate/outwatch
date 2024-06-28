@@ -45,3 +45,10 @@ You can align the image
 `![>|My sized Image](image-src)` Right Aligned
 Or do any combination
 `![<|My left aligned sized image with a link|50](image-src.png)(link.html)`
+
+## Footnotes
+
+A footnote link is done like this[^footnote] or like this [^1]
+then add the footnote description at the bottom liket this
+[footnote]: a footnote using an id with letters
+[1]: a footnote using an id with a number
