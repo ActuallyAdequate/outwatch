@@ -1,0 +1,17 @@
+### _Never Come Back_
+
+## Overview
+
+_Never Come Back_ was an indie action-horror film made the crew of the _Latent Quarry_ when required to complete an extra month quarantine after failing to complete earlier quarantine requirements on the planet Waken.  It was made using practical effects from existing ship provisions, and featured the crew in various amateur acting roles.  The film was screen at the Por Guwlen Indie Film Festival where it met a mediocre response.  However, it later turned into a cult classic when the director, Natassa Fordancken, headed the Embracers.
+
+## Synopsis
+
+The _Soma Soma_ leaves a relay station port and begins to head to Capo, but on the way develops a radiation shielding issue and stops in the shadow of a moon to complete repairs.  However, repairs go awry, killing a crewmember, and the ship drifts out of the lunar shadow, exposing the crew to intense radiation.  They hide in the shielded lander until their orbit brings them back into shadow and they can complete repairs.
+
+The captain, Nuwneam, begins to have nightmares and locks herself in her cabin.  When efforts to get her to come out fail, the 2IC, Dabbewbacker, takes command and starts to steer the ship to Capo.  However, they soon discover that the ship's fuel cells have been sabotaged, and attempt to isolate the crewmember responsible while completing repairs.  Maintenance is done in teams of three to try and ensure that no further sabotage occurs without notice, though this slows down repairs considerably.
+
+Dabbewbacker begins to have nightmares of her own, of being forced down a tunnel away from a warm yellow sky and silver grass, screaming, while the figure dragging her warns, "Never come back, never come back."  Repairs are completed, but Dabbewbacker refuses to return the ship to Capo before she finds the saboteur.  The crew becomes split, with some backing Dabbewbacker and some threatening mutiny if they do not start homeward immediately.  To placate the crew, and in an attempt to learn who the saboteur is, Dabbewbacker throws a party and gets the crew drunk.  However, she becomes drunk herself, and admits to the medical officer that her dreams make her worried she doesn't deserve to return home.
+
+In the aftermath Dabbewbacker identifies the saboteur as engineer Tenorat, who talks in his sleep, repeating the phrase, "Never come back."  She confines him to quarters and the crew restart the engines and begin the journey back to Capo.
+
+Months later, Dabbewbacker is finishing her shift.  She checks on Tenorat, who bangs on the door to his cabin asking to be released, and then meets up with another crewmember for sex.  She is awoken in the night when the crewmember starts talking in their sleep, "Never come back", and flees to the mess hall, looking out the window at the stars.  Captain Nuwneam arrives, asking if she recognises any of the stars, and reveals that she changed the guidance information so that the ship wouldn't return to Capo, saying it is not their real home.  Nuwneam claims that they have been given false memories but that the radiation eroded them and revealed the truth.  The two fight and Dabbewbacker severely injures the captain, who disappears.  Anguished, Dabbewbacker looks out at the stars and realises that they are approaching an Eden-like planet with a warm yellow sky and silver grass.
