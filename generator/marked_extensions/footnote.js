@@ -23,7 +23,7 @@ const footnotedesc = {
     name: 'footnotedesc',
     level: 'inline',
     tokenizer(src) {
-        const match = /^\[([a-zA-Z0-9]+)\]\:/.exec(src);
+        const match = /^\[\^?([a-zA-Z0-9]+)\]\:/.exec(src);
         
         if (match) {
             console.log(match);
