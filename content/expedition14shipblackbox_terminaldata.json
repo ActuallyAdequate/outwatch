@@ -1,0 +1,8 @@
+{
+  "read": {
+    "diagnostics": "Signal: Active<br>Location: Jarynt Lientsil Crete<br>Condition: Poor<br>Connections: 1<br>Databanks: Intact"
+  },
+  "connect": {
+    "newbound": "vaccum_newbound_1.html"
+  }
+}

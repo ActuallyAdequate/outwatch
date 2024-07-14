@@ -1,0 +1,68 @@
+
+
+h1,h2,h3,h4,h5,h6 {
+    display: block;
+}
+
+#container {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.terminal {
+    width: 50%;
+    height: 80%;
+    background-color: #000;
+    border: 2px solid #00FF00;
+    padding: 1em;
+    box-sizing: border-box;
+}
+
+.terminal-output {
+    height: calc(100% - 30px);
+    overflow-y:hidden;
+}
+
+.terminal-output div {
+    white-space: pre-wrap; /* Allows text to wrap */
+    word-wrap: break-word; /* Ensures long words will break */
+    font-family: 'Courier New', Courier, monospace;
+    color: #00FF00;
+}
+
+.terminal-input {
+    display: flex;
+    align-items: center;
+}
+
+.terminal-input span {
+    margin-right: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #00FF00;
+}
+
+#terminal-input {
+    background-color: #000;
+    color: #00FF00;
+    border: none;
+    outline: none;
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+
+@media (max-width: 800px) {
+    .terminal {
+        width: 80%;
+    }
+  }
+
+@media (max-width: 600px) {
+    .terminal {
+        width: 100%;
+    }
+  }

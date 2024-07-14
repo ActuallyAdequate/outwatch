@@ -16,4 +16,4 @@ The NewBound was one of the first initiatives of the World Council Assembly afte
 
 ### Verdict
 
-The proposal was accepted with an amendment. That the NewBound upon arrival would be able to sustain itself indefinitly in the Jarynt System, if the conditions on Lientsil were less than favourable. The generation ship was built in vaccum over the course of 5 decades, designed in a modular way with redundant systems allowing for up to a two-thirds of the ship to be malfunction before a total system failure.
+The proposal was accepted with an amendment. That the NewBound upon arrival would be able to sustain itself indefinitely in the Jarynt System, if the conditions on Lientsil were less than favourable. The generation ship was built in vacuum over the course of 5 decades, designed in a modular way with redundant systems allowing for up to a two-thirds of the ship to be malfunction before a total system failure.

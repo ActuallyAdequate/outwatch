@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Outwatch</title>
+    <link rel="stylesheet" href="styles/default.css" />
+    <link rel="stylesheet" href="styles/terminal.css" />
+  </head>
+  <body>
+    <h1>Wayward Ship Black Box Terminal</h1>
+    <div id="container">
+      <div class="terminal">
+        <div class="terminal-output" id="terminal-output"></div>
+        <div class="terminal-input">
+          <span>&gt;</span>
+          <input type="text" id="terminal-input" autofocus autocomplete="off" />
+        </div>
+      </div>
+    </div>
+    <script
+      src="terminal.js"
+      terminal-data="expedition14shipblackbox_terminaldata.json"
+    ></script>
+  </body>
+</html>

@@ -126,3 +126,23 @@ article {
       margin: 0;
   }
 }
+
+input {
+  background-color: black;
+  color:  #00FF00;
+  margin: 0.01em;
+  border-radius: 0.5em;
+  padding: 0.5em;
+  border: none;
+}
+button {
+  background-color: #555;
+  margin: 0.2em;
+  border-radius: 0.5em;
+  padding: 0.5em;
+  border: none;
+}
+
+button:hover {
+  background-color: #757575;
+}
