@@ -2,7 +2,7 @@
 
 ## Overview
 
-The non-local relay network (NoLoRN) is a system-based communications network that allows for virtually instantaneous communications between networked spacecraft and institutions within the orbit of Somnis.  It consists of 67 relay beacons occupying Lagrange points within the inner system.  It is used by [Fleet Control](fleetcontrol_overview) to coordinate the movement of system-based craft, by local governors to report information to their home nations, and by devolved autonomous companies to relay highly critical commercial information.  The NoLoRN Board, operated by Fleet Control, allocates network space and sells any surplus network capacity to other bidders, such as individuals for personal communications.
+The non-local relay network (NoLoRN) is a system-based communications network that allows for [more-than-instantaneous](wrc_ftl.md) communications between networked spacecraft and institutions within the orbit of Somnis.  It consists of 67 relay beacons occupying Lagrange points within the inner system.  It is used by [Fleet Control](fleetcontrol_overview) to coordinate the movement of system-based craft, by local governors to report information to their home nations, and by devolved autonomous companies to relay highly critical commercial information.  The NoLoRN Board, operated by Fleet Control, allocates network space and sells any surplus network capacity to other bidders, such as individuals for personal communications.
 
 The non-local relay network uses dark-energy decay filaments to communicate at superluminal speeds, allowing time-critical fleet coordination information to prevent unnecessary fuel usage.
 

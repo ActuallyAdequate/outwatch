@@ -16,7 +16,7 @@ The WCA is also the body that oversees extra-global issues such as orbital infra
 
 ## Global thinking
 
-The WCA and its child organisations have been developed to overcome national pressures and engage in truly global thinking.  Delegates to the Assembly are elected from institutional positions within each country rather than appointed by heads of state, ensuring that they are focused not on the priorities of the government of the day, but on issues and goals that affect citizens around the globe.  The WCA focuses on the long-term outcomes for all people of all nations.
+The WCA and its child organisations have been developed to overcome national pressures and engage in truly global thinking.  Delegates to the Assembly are elected from institutional positions within each country rather than appointed by heads of state, ensuring that they are focused not on the priorities of the government of the day, but on issues and goals that affect citizens around the globe.  The WCA focuses on the long-term outcomes for all people of all nations and [religions](religion_overview.md).
 
 ![_|Data|25](header_space_2.png)
 
