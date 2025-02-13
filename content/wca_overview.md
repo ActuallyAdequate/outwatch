@@ -10,7 +10,7 @@ The WCA is the body that facilitates and achieves global order, security and pea
 
 ## Extra-Global Jurisdiction
 
-The WCA is also the body that oversees extra-global issues such as orbital infrastructure rules, extra-planetary resource management and transport coordination.  For these purposes the WCA has developed the World Research Council, the System Resource Management Council, the Orbital Governance Council and Fleet Control, sub-bodies that handle off-world issues as they arise.  Each of these bodies is afforded generous autonomy but are created under the directives of and answerable to the WCA.  Together, these institutions identify and resolve issues on behalf of the WCA.
+The WCA is also the body that oversees extra-global issues such as orbital infrastructure rules, extra-planetary resource management and transport coordination.  For these purposes the WCA has developed the [World Research Council](wrc_overview.md), the System Resource Management Council, the Orbital Governance Council and Fleet Control, sub-bodies that handle off-world issues as they arise.  Each of these bodies is afforded generous autonomy but are created under the directives of and answerable to the WCA.  Together, these institutions identify and resolve issues on behalf of the WCA.
 
 ![_|Data|25](header_chart_1.png)
 
